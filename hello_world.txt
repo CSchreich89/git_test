@@ -1,1 +1,2 @@
 I'm trying to learn Git and I'm modifying files!
+Modified it again so I can test VSCode as message editor
